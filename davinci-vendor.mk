@@ -278,6 +278,7 @@ PRODUCT_PACKAGES += \
     libsnsapi \
     libsnsdiaglog \
     libssc \
+    libswregistrationalgo \
     libthermalclient \
     libtriplecam_optical_zoom_control \
     libtriplecam_video_optical_zoom \
